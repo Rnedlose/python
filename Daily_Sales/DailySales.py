@@ -12,7 +12,7 @@ sheet1 = book.add_sheet('sheet1')
 # Variables and lists
 total_sales = 0
 index = 0
-days = ['Monday' , 'Tuesday' , 'Wednesday' , 'Thursday' , 'Friday' , 'Saturday' , 'Sunday']
+days = ['Monday' , 'Tuesday' , 'Wednesday' , 'Thursday' , 'Friday' , 'Saturday' , 'Sun']
 daily_sales = []
 daily_sales_copy = []
 user_selection = 0
